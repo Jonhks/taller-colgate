@@ -1,0 +1,17 @@
+.nav-wrapper, .page-footer{
+  background-color: black;
+}
+
+.mi-img{
+  background-color: black;;
+}
+
+.card-title{
+  color: black !important;
+  text-shadow: 1px 1px rgb(170, 168, 168) !important;
+}
+
+.mi-card{
+  height: 65vh;
+}
+
